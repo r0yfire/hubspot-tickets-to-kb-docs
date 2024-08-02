@@ -1,0 +1,22 @@
+{
+  "name": "rnd-hubspot-tickets-to-kb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fast-csv/format": "^5.0.0",
+    "@fast-csv/parse": "^5.0.0",
+    "@hubspot/api-client": "^11.1.0",
+    "@langchain/anthropic": "^0.2.11",
+    "@langchain/core": "^0.2.18",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.12",
+    "zod": "^3.23.8"
+  }
+}
