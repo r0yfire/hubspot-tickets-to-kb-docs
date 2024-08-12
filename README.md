@@ -61,7 +61,7 @@ Use [this guide](https://knowledge.hubspot.com/import-and-export/export-records)
     node index.mjs
     ```
 
-4. Convert the generated JSON file to a CSV file for importing into HubSpot:
+4. Convert the generated JSON file to a CSV file:
     ```bash
     node json2csv.mjs
     ```
